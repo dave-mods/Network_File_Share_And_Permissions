@@ -51,7 +51,7 @@ Back on client-1 as our normal user in the same place where we looked at the oth
 ![image](https://github.com/user-attachments/assets/73c90d69-63b5-4be8-99d6-a9bb8bb7383c)
 ![image](https://github.com/user-attachments/assets/80caad74-1c45-4ce0-a6ec-148ce55597f6)
 
-Lets see if we did all this correctly. Log back into client-1 as your user. Search "run" in the bottom left> enter \\dc-1 and we are back to the folders. Lets try opening the accounting folder. As you can see we can open and write documents.
+Lets see if we did all this correctly. Log back into client-1 as your user. Search "run" in the bottom left> enter  \\dc-1 and we are back to the folders. Lets try opening the accounting folder. As you can see we can open and write documents.
 ![image](https://github.com/user-attachments/assets/eb60722f-343d-4d79-aa7a-8e062581f43f)
 
 
